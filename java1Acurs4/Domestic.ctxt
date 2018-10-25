@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Domestic
+comment1.params=deInterior
+comment1.target=Domestic(boolean)
+comment2.params=deInterior
+comment2.target=void\ setDeInterior(boolean)
+comment3.params=
+comment3.target=boolean\ isDeInterior()
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Adapost
+comment1.params=nrAnimale
+comment1.target=Adapost(int)
+comment2.params=
+comment2.target=int\ getCounter()
+comment3.params=
+comment3.target=Animal[]\ getAnimale()
+comment4.params=a
+comment4.target=void\ adauga(Animal)
+comment5.params=
+comment5.target=void\ afiseaza()
+comment6.params=
+comment6.target=void\ sayMiau()
+numComments=7
