@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Angajat
+comment1.params=nume\ vechime
+comment1.target=Angajat(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getSalariu()
+numComments=3
