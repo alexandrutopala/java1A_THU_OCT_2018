@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Loterie
+comment1.params=
+comment1.target=Loterie()
+comment2.params=
+comment2.target=Loterie\ getInstance()
+comment3.params=
+comment3.target=int[]\ genereaza()
+comment4.params=sir1\ sir2
+comment4.target=int\ calculeaza(int[],\ int[])
+comment5.params=sir
+comment5.target=void\ afiseaza(int[])
+numComments=6

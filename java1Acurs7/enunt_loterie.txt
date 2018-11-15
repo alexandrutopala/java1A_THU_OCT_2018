@@ -1,0 +1,11 @@
+	O loterie stie sa genereze un sir de 6 numere aleatoare din intervalul [1, 25] si sa calculeze un punctaj pe baza a 2 siruri a cate 6 numere fiecare, dupa urmatoarea regula : vom lua cate un element din fiecare sir de la aceeasi pozitie (sa spunem, elementul x din primul sir si elementul y din cel de-al doilea) si vom face urmatorul calcul : 
+		daca x = y, atunci adunam 100 de puncte la punctajul total
+		daca |x - y| >= 1 si |x - y| <= 3, atunci adunam 50 de puncte la punctajul total
+		daca |x - y| >= 4 si |x - y| <= 5, atunci adunam 25 de puncte la punctajul total	
+		altfel, nu adaugam nimic
+	In cele din urma, vom returna punctajul total.
+	Scrieti o aplicatie care gestioneaza o singura Loterie si care poate primi de la tastatura urmatoarele comenzi:
+	 - "JOACA <n1> <n2> <n3> <n4> <n5> <n6>" - pentru care aplicatia va forma un sir de 6 numere din numerele n1, n2,..., n6 date de la tastatura, 
+						  va genera un alt sir de 6 numere aleatoare (pe care-l va afisa pe o linie) si pe baza celor doua siruri,
+						  va calcula un punctaj pe care-l va afisa.
+	 - "EXIT" - care va inchide aplicatia
