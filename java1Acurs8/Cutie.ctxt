@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cutie
+comment1.params=continut
+comment1.target=void\ setContinut(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getContinut()
+comment3.params=t
+comment3.target=void\ m(java.lang.Object)
+numComments=4
