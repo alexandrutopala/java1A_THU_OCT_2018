@@ -1,0 +1,16 @@
+O bautura are un nume si un pret. Cafeaua este bautura care are in plus un gramaj de cafeina. Sucul este o bautura care are in plus un gramaj de zahar.
+	Se cere realizarea unei aplicatii care gestioneaza o singura cafenea, si care are urmatoarele cazuri de utilizare : 
+	- adaugaBautura : va arunca exceptia NameAlreadyExistsException definita de programator daca exista 			deja in cafenea o bautura cu acelasi
+	- afiseazaBauturi : va afisa toate bauturile
+	- afiseazaCafele : va afisa doar cafelele din cafenea
+	- stergeBautura : care va sterge o bautura din cafenea in functie de un nume dat
+
+	- sorteazaBauturi : va afisa toate bauturile sortate dupa pret
+
+	Cazurile de mai pot fi accesta prin urmatoarele comenzi de la tastatura : 
+	- ADD <tip> <nume> <pret> <inf> : unde <tip> este tipul bauturii ("cafea" sau "suc") iar <inf> este 				informatia specifica tipului de bautura (gramaj de cafeina pentru "cafea" 				sau gramaj de zahar pentru "suc")
+	- AFIS
+	- AFIS_CAFELE
+	- STERGE <nume> : unde <nume> este numele bauturii catre trebuie stearsa
+	- SORT
+	- EXIT

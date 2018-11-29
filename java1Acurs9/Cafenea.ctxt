@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cafenea
+comment1.params=
+comment1.target=Cafenea()
+comment2.params=
+comment2.target=Cafenea\ getInstance()
+comment3.params=b
+comment3.target=void\ adaugaBautura(Bautura)
+comment4.params=
+comment4.target=void\ afiseazaBauturi()
+comment5.params=
+comment5.target=void\ afiseazaCafele()
+comment6.params=nume
+comment6.target=void\ stergeBautura(java.lang.String)
+comment7.params=
+comment7.target=void\ afiseazaSortat()
+numComments=8
